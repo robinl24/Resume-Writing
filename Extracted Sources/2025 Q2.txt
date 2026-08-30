@@ -1,0 +1,202 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+My Name                            My Manager
+
+    Robin Lee                          Donny Amalo
+
+
+
+Quarter:    Q2 2025                                      My Personal Ratings Assessment
+
+                                                           Exceeded
+                                                           Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+Accomplishment                                            Related OKR(s)             Details
+
+Supporting Pricing Standardization with Discount Schedules                                                                       Summary
+
+                                                                                                                                    • Served as the developer on th
+                                                                                                                                      Schedules (Out of the Box pric
+                                                                                                                                    • Implemented selective proratio
+                                                                                                                                      move to an “Interaction” mode
+                                                                                                                                    • Updated order forms to suppo
+
+                                                                                                                                 Impact
+
+                                                                                                                                    • Improved the amendment proc
+                                                                                                                                      streamlining workflows.
+                                                                                                                                    • Maintained ACV/QR accuracy d
+                                                                                                                                    • Enhanced user experience by
+                                                                                                                                    • Developed custom pricing stru
+
+                                                                                                                                 Next Steps
+
+                                                                                                                                    • Deploy the project in the upco
+                                                                                                                                    • Collaborate with Sales and De
+
+Simplification of Amendment Process                                                                                              Summary
+
+                                                                                                                                    • Developed and helped architec
+                                                                                                                                      the Deal Desk team to clear ol
+                                                                                                                                      complex amendment processe
+                                                                                                                                    • Designed the new process to e
+                                                                                                                                      for correcting migrated or user
+                                                                                                                                    • Contributed to simplifying the
+                                                                                                                                      amendment process themselv
+
+                                                                                                                                 Impact
+
+                                                                                                                                    • Reduced manual workload for
+                                                                                                                                      amendments.
+                                                                                                                                    • Enhanced data integrity by ena
+                                                                                                                                      increased accuracy.
+                                                                                                                                    • Improved forecast accuracy th
+                                                                                                                                    • Simplified amendment process
+
+                                                                                                                                 Next Steps
+
+                                                                                                                                    • Assist with the rollout of the A
+                                                                                                                                      period.
+                                                                                                                                    • Monitor for and resolve any iss
+
+ACV/QR Continuing Improvements                                                                                                     Summary
+
+                                                                                                                                      • Continued to lead the ACV/QR
+                                                                                                                                        Crediting Team to improve acc
+                                                                                                                                      • Directed enhancements prima
+                                                                                                                                        the crediting team.
+
+                                                                                                                                   Impact
+
+                                                                                                                                      • Achieved a reduction in Annua
+                                                                                                                                        average ~3.5%), nearing the 3
+                                                                                                                                      • Lowered Quarterly Revenue (Q
+                                                                                                                                        goal.
+                                                                                                                                      • Improved overall data quality a
+                                                                                                                                        are generally not reviewed ma
+
+                                                                                                                                   Next Steps
+
+                                                                                                                                      • Continue collaboration with th
+                                                                                                                                      • Aim to further reduce manual a
+                                                                                                                                        improvements.
+                                                                                                                                      • Monitor any major impacts to A
+                                                                                                                                        effectiveness.
+
+Accelerating Team Delivery through Technical Design                                                                                Summary
+
+                                                                                                                                      • Designed 40 unique technical
+                                                                                                                                        Professional Services enhance
+                                                                                                                                      • Delivered detailed technical de
+                                                                                                                                        with business and technical re
+
+                                                                                                                                   Impact
+
+                                                                                                                                      • The 182 story points of develo
+                                                                                                                                        normal sprint, demonstrating a
+                                                                                                                                      • Resolved system bugs that he
+                                                                                                                                        efficiency.
+
+                                                                                                                                   Next Steps
+
+                                                                                                                                      • Maintain focus on creating clea
+                                                                                                                                      • Collaborate closely with produ
+                                                                                                                                      • Continue driving system impro
+                                                                                                                                        overhead.
+
+
+
+
+
+Rapid Deployment of Qualtrics AI Trial Sign-Up Initiative                                                                          Summary
+
+                                                                                                                                      • Assisted in the rapid, last-minu
+                                                                                                                                        ups for trialing Qualtrics’ AI fea
+                                                                                                                                      • Collaborated closely with Dom
+                                                                                                                                        need for new development fro
+
+                                                                                                                                   Impact
+
+                                                                                                                                      • Accelerated deployment timeli
+                                                                                                                                      • Generated significant client int
+                                                                                                                                        months of launch.
+
+  Consulted on AI-Based Migration of Deal Desk and Legal Team Request                                                                   • Served as a key technical cons
+ Help Surveys                                                                                                                             Request Help Surveys to a new
+                                                                                                                                        • Provided in-depth knowledge
+                                                                                                                                          transition and alignment with b
+                                                                                                                                        • Helped identify potential risks
+
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                     What actions have I taken/will take related to this learning
+
+ Building Alignment with Qualtrics’ Interview Evaluation Standards               While shadowing technical interviews this quarter, I realized that my evaluatio
+                                                                                 architectural responses were more lenient than perhaps expected. The rubric’s
+                                                                                 architectural competence felt somewhat subjective, making it challenging to g
+                                                                                 definitively right or wrong. This experience helped me recognize the nuances
+                                                                                 senior technical skills.
+
+                                                                                 Moving forward, I plan to shadow more experienced interviewers to better und
+                                                                                 Qualtrics’ interview standards and expectations. This will help me develop a m
+                                                                                 consistent approach to candidate assessments.
+
+ Enhanced Decision-Making for Sustainable Solution Architecture                  This project also highlighted that migrations to out-of-the-box (OOTB) solutio
+                                                                                 with thorough upfront analysis due to the extensive downstream dependencie
+                                                                                 interactions involved. Understanding the full scope of how OOTB features inte
+                                                                                 processes is critical to avoid unexpected complexity and scope creep.
+                                                                                 Moreover, this experience has strengthened my ability to evaluate when custo
+                                                                                 add value versus when they introduce disproportionate development and mai
+                                                                                 Gaining this perspective empowers me to more confidently push back on stak
+                                                                                 may not be sustainable long-term, advocating for simpler, more maintainable s
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                            How I plan to accomplish it                      Status                    Quarter
+
+ Complete Training and Shadowing for Interviewing                     Allocate some time at the end of                   Done                      Q1 2025       Q2 2025
+                                                                      sprints and make sure Ethan is aware
+                                                                      that I am ready to do shadowing for
+                                                                      interviews.
+
+ Improve Documentation                                                Automation documentation is a very                 In progress               Q1 2025       Q2 2025
+                                                                      iterative process that takes a long time
+                                                                      to do and it is hard to maintain,
+                                                                      especially given our team’s speed of
+                                                                      development.
+
+                                                                      I would like to work on strategizing
+                                                                      documentation for my parts of Deloitte
+                                                                      Implementation and continue work on
+                                                                      the ACV/QR documentation.
+
+ Certification for Dev 1                                              Schedule regular time to review and                In progress               Q2 2025       Q3 2025
+                                                                      study material every week.
+                                                                      Take monthly practice exams to
+                                                                      monitor progress
+

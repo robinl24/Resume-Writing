@@ -1,0 +1,101 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                     My Manager
+
+      Robin Lee                                   Donny Amalo
+
+
+
+Quarter:       Q4 2024                                                     My Personal Ratings Assessment
+
+                                                                             Met Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                            Related OKR(s)                     Details
+
+ Merge Contract Exit ACV                                                     ACV Accuracy                      Merged Contracts Exit Rate Funct
+                                                                             QR Accuracy                       Team to manually adjust ACV/QR d
+                                                                                                               accurately build deals since the AC
+
+                                                                                                               Reduction of Manual Work: It will r
+                                                                                                               in SFDC from scratch.
+                                                                                                               Accurate Reporting for Sales: Sale
+                                                                                                               Crediting.
+
+                                                                                                               Overall Data Integrity: This change
+
+                                                                                                               Initial Impact: 7 opportunities have
+
+ Currency Accuracies with Exit Rates                                                         ACV Accuracy                             Old Currency Change Process: Pr
+                                                                                             QR Accuracy                              required to create a new opportuni
+                                                                                                                                      linking data between the old and n
+
+                                                                                                                                      Data Preservation: Linkage data w
+                                                                                                                                      Streamlined Operations: The Cred
+                                                                                                                                      their workload.
+
+                                                                                                                                      Reduced Friction: This change min
+                                                                                                                                      operations and faster turnaround t
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                      What actions have I taken/will take related to this learning
+
+ More about the OOTB functionality of CPQ                                         It’s lead me to evaluate some of our design choices, particularly those that we
+                                                                                  ATG’s implementation.
+                                                                                  I would like to invest more time in exploring how other teams approach solutio
+                                                                                  CPQ.
+                                                                                  The first step could involve engaging in Trailhead trainings to build a solid foun
+                                                                                  I think the next steps could be to speak with other developers in conferences
+                                                                                  our new-hire, as the complexity of the problems we’re trying to solve are not a
+                                                                                  base Trailheads.
+
+
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                             How I plan to accomplish it                      Status                   Quarter
+
+ Improve Documentation Writing                                         I want to begin by completing the                  Not started              Q4 2024
+                                                                       documentation for the QR/ACV
+                                                                       functionality. Making any updates to
+                                                                       the documentation since my last
+                                                                       update. I’ll focus on two strategies to
+                                                                       improve documentation writing: first,
+                                                                       I’ll provide clear explanations for why
+                                                                       certain functions exist and less about
+                                                                       the actual functionality. Second, I’ll
+                                                                       start a changelog that incorporates
+                                                                       JIRA tickets, ensuring that recent
+                                                                       changes are well-documented and
+                                                                       easily understandable.
+
+ Improve my quarterly review writing and documenation                  Start by more regularly documentating              Not started              Q4 2024
+                                                                       my accomplishments (instead of at the
+                                                                       end of the quarter).
+                                                                       Also, check in on the status of goals
+                                                                       set at the beginning of the quarter
+                                                                       more regularly.

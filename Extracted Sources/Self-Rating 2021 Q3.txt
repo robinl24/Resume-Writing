@@ -1,0 +1,39 @@
+*To be more aligned with the 360 Feedback survey which has 1000 char limits, the sections are shorter.
+
+Self Rating: Meets Expectations
+
+
+(From 360 Feedback)
+
+What did you do well?
+
+-Manual Testing
+As the primary manual tester (139/181 tickets), I have focused on returning meaningful feedback quickly to give devs time to make any necessary fixes. Additionally this last quarter, I have guided stakeholders through short UAT sessions so they are comfortable approving changes to their critical workflows.
+
+-Revamp Onboarding Documents
+I wanted to improve our onboarding documentation to rely less on shadowing another member of the team. By expanding the onboarding documentation from 10 pages to 50 pages with information from meetings with members of the dev team, I think this will provide new members with good foundational knowledge to be able to directly contribute earlier than before the new documentation
+
+-Reviewing test cases affected areas and priorities
+Reviewing the past test cases for affected systems and priorities allows us to identify which areas of the system are changed more frequently and prioritizes which tests to automate to cover these areas of the system.
+
+
+What could you have done better?  
+
+-UAT Projects
+I think our team was partially blindsided by attrition, but I did not feel informed enough about the major projects (CLM and Renewals 2.0) to be able to provide meaningful assistance for a few weeks while I learned more about the projects. I hope to make sure that in the future that all members of the team will be more informed about ongoing large-scale projects.
+
+-Internal Communication
+There were some apparent gaps in communication when I learned that Cierra needed help with projects. Since then, we started more regular sync ups to try to close this gap.
+
+-Communication with BSAs for Projects
+When I was working with BSAs on projects like Renewals and CLM, I think a lack of experience and familiarity working with these teams caused some initial confusion about what would be expected from me. With time, most of these communication issues were addressed, but I think it caused some friction between where it might have been better addressed earlier.
+
+
+What have you done to contribute to the success of others?  
+
+-SFDC Support on off schedule
+Being mindful of the attrition of the Dev and Admin team, I have assisted with the SFDC support channel on an informal level, when the channel was overwhelmed with requests. More recently though, the testing team now helps with the coverage of the support channel on a more formal level.
+
+-Helping Proposals push their own Salesforce Admin request
+While the dev and admin team were limited in their bandwidth to fulfill requests from stakeholders, I gave some guidance to the LATAM proposals team so they could build out an automation tool on their own. This addition was more easily approved by our team, because it required far less scoping/building on our end. And this was some tooling the proposal team wanted.
+

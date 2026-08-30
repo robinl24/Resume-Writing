@@ -1,0 +1,112 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                         My Manager
+
+      Robin Lee                                       Donny Amalo
+
+
+
+Quarter:         Q4 2023                                                        My Personal Ratings Assessment
+
+                                                                                   Met Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                                  Related OKR(s)                        Details
+
+ Correcting ACV Calculations                                                       Reduce QR and ACV Cases             It was discovered that there was a
+                                                                                                                       practice these different calculation
+                                                                                                                       problems that created cases for ou
+                                                                                                                       able to include them with the main
+
+ Reduce Future Renewal Issues with ACV                                             Reduce QR and ACV Cases             Renewal of Renewal Opportunities
+                                                                                                                       some oversight in development. Th
+                                                                                                                       retroactively adjusted contracts to
+
+                                                                                                                       This also allows reports that previo
+                                                                                                                       reflection of Total ACV. So not only
+                                                                                                                       issues and crediting.
+
+ Maintained QCP and related developement resources to improve future               Reduce Redundancies with            Much of this work was cleaning up
+ development                                                                       QCP Development                     much of the bandwidth to clean up
+                                                                                                                       and related code to help resolve su
+                                                                                                                       up would be more valuable as we a
+
+ Helped add more robost logic to handle re-org development and                                (Odo OKR) Solution Engineer              Last 2 Re-Orgs (Feb and Sept) hav
+ debugging                                                                                    Survey Preventative                      Role names would be changed (wit
+                                                                                              Development                              could only guarantee that Role Nam
+                                                                                                                                       suggested that we add preventativ
+                                                                                                                                       using less frequently used data to
+
+                                                                                                                                       There was another un-warned re-n
+                                                                                                                                       routing, but this was a much smalle
+                                                                                                                                       and it took about 2 months of deve
+
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                       What actions have I taken/will take related to this learning
+
+ With new Salesforce CPQ, we lost some visibility into debugging                   I need to re-evaluate what the steps of debugging should be for issues withou
+ our own issues and we’re not able to always fix problems easily                   I need to spend more time training/learning what we can debug (and what we
+ on our own.                                                                       create a case with Salesforce).
+                                                                                   I will definitely continue reading discussions and threads about how other orgs
+                                                                                   opacity when trying debug issues with Salesforce CPQ, so I can tech design n
+                                                                                   architecture with ease of debugging in
+
+ I think one thing I learned was how fragile our QR/ACV (QCP)                      I would like to re-visit finding some method of automating some of the testing
+ calculations are to bugs and issues. For something that is so                     Desk team does for major QCP changes. I think one of the starting points is to
+ critical to run correctly for day to day business operations, we                  existing automations we have for automated testing by discussing strategies w
+ don’t seem to have high enough standards for automated testing                    is to have very well known testing situations automated, but ideally with low m
+ QCP development changes. To account for this lack of                              so our developers can easily maintain it)
+ automated testing we rely heavily on stakeholder testing (takes a
+ lot of time from very busy business-critical teams) and it is very
+ dependent on humans catching errors.
+ -Early in Q1, I received a question about QR/ACV that actually led
+ to a possible bug that was missed by many people who tested
+ the functionality. I think it was very lucky that it’s only been this
+ one issue so far.
+
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                             How I plan to accomplish it                       Status                    Quarter
+
+ Practice Tests and Training for Platform Developer                     I plan on allocating time for studying             In progress               Q4 2023
+ Certification                                                          with tickets. In the past, I’ve been bad
+                                                                        about officially setting aside time so
+                                                                        hoping to do that this quarter.
+
+Write and prepare training for our QCP and QR/ACV                       I expect there to continue to be tickets             Done                       Q4 2023
+                                                                        and requests around QCP to
+                                                                        developed in the future, but I will plan
+                                                                        on allocating some of the development
+                                                                        time to writing down the related
+                                                                        functionality on existing documents. I
+                                                                        think it’s important that some of the
+                                                                        QCP knowledge is not just in my head
+                                                                        and in code, especially since it may
+                                                                        look like this is where much of our
+                                                                        business calculations are run.

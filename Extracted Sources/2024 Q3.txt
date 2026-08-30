@@ -1,0 +1,114 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                     My Manager
+
+      Robin Lee                                   Donny Amalo
+
+
+
+Quarter:       Q3 2024                                                    My Personal Ratings Assessment
+
+                                                                             Exceeded
+                                                                             Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                            Related OKR(s)                     Details
+
+ Improve ACV Calculation Accuracy                                           ACV Accuracy                        • Subscription-Based Contract
+                                                                                                                  subscription data for exit rate
+                                                                                                                  keeping overall calculation me
+                                                                                                                • Impact on Q3 Reporting:   This
+                                                                                                                  $250 million in errors within th
+                                                                                                                • Long-term Benefits:   These im
+                                                                                                                  anticipate fewer manual adjust
+                                                                                                                • Met Shortened Development
+                                                                                                                  one month.
+
+ Redesign of Quota Relief Calculations                                                      QR Accuracy                                •  Improvement of Quota Relief
+                                                                                                                                          by the Crediting team. Previou
+                                                                                                                                          scenarios.
+                                                                                                                                       •  Data Discrepancies Discovere
+                                                                                                                                          significant issues with product
+                                                                                                                                       •  Recognized Need for Data Cle
+                                                                                                                                          which will be a primary focus f
+                                                                                                                                       •  Exceeded Development Time
+                                                                                                                                          were successfully deployed an
+                                                                                                                                       •  Impact  : The new systematized
+                                                                                                                                          a few instances, the automatic
+                                                                                                                                          scenarios.
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                     What actions have I taken/will take related to this learning
+
+ Data Accuracy and Maintenance                                                      • Multiple Data Owners       : Achieving accuracy in QR and ACV calculations re
+                                                                                      various stakeholders, including users generating new SKUs, the Deal Des
+                                                                                      processes, and the Customer Intelligence team owning renewal forecasts
+                                                                                      make sure everyone’s automations work correctly.
+                                                                                    • Power Users Know Too Much:            Some of our most knowledgeable users, lik
+                                                                                      Desk, can navigate the CPQ system effectively, their complex workaround
+                                                                                      amendments, can inadvertently create significant data issues downstream
+                                                                                      generated by these workarounds may go unnoticed for an extended perio
+                                                                                      resemble legitimate data, making it challenging to identify and reverse the
+                                                                                      take hours or even weeks to do correctly. In contrast, less informed users
+                                                                                      straightforward steps, such as including ACV/QR percentages on new pro
+                                                                                      be corrected in just a few minutes.
+                                                                                    • Learning Maintenance is Important as Impact             : Development needs to wo
+                                                                                      power users so they do not have to resort to complex workarounds for an
+                                                                                      time. But our team also needs to make reporting even the smallest issues
+                                                                                      power users. Although there is merit to making sure our team priortizes hi
+                                                                                      some issues have high costs due to the problems our power users can cre
+                                                                                      doing maintenance tickets for our system (like Tech Debt).
+                                                                                    • Partial Solution   : Support Reduction cases have already played a crucial ro
+                                                                                      maintenance issues within our system. While they may not be as visible a
+                                                                                      they deserve greater recognition for their effectiveness in preventing hidd
+                                                                                      Reduction process has already improved this quarter, and we’ve had more
+                                                                                      health of our system than last quarter. I’ve learned to better appreciate th
+                                                                                      ongoing efforts to maintain the integrity of our complex system.
+
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                            How I plan to accomplish it                      Status                   Quarter
+
+Practice Tests and Training for Platform Developer                     Plan on setting aside time in the                   In progress               Q1 2024       Q2 2024
+Certification                                                          morning each day to focus time on
+                                                                       learning.
+
+
+                                                                         1. Spend 5-20 minutes each morning
+                                                                            on focus on force. Take Notes.
+                                                                         2. Quick review at end of the day.
+                                                                         3. Prep for practice exam
+                                                                         4. Schedule real exam
+
+Improve my Ability to Delegate a Large Project Work                      1. Write the Tech Design on more                  In progress               Q3 2024
+                                                                            developer tickets
+                                                                         2. Write down feedback from the
+                                                                            designed tickets (reasons why the
+                                                                            assignee asked for clarification)
+                                                                         3. Incorporate feedback in more
+                                                                            Tech Designed tickets

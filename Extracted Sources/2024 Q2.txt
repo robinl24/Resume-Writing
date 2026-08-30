@@ -1,0 +1,108 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                        My Manager
+
+      Robin Lee                                       Donny Amalo
+
+
+
+Quarter:         Q2 2024                                                        My Personal Ratings Assessment
+
+                                                                                   Met Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                                 Related OKR(s)                        Details
+
+ Migrating our quote automations from asynchronous Apex logic to QCP              Migrate Asynchronous Apex              • Reduced Update Delays     : Prev
+ Javascript, these fields now update immediately after the user saves the         to QCP                                   Quote Configuration, Quote Ty
+ quote.                                                                                                                  • Manual Override Capability    : In
+                                                                                                                           automation. Reducing the need
+                                                                                                                         • Enhanced Downstream Autom
+                                                                                                                           order form generation.
+                                                                                                                         • Reduced False Positive Bug R
+                                                                                                                           a smoother and more reliable e
+
+ Identified and rectified the issue where renewals were mistakenly                QR/ACV Re-vamp project                 • Streamlined Process    : Eliminat
+ generated for Research Services and Free Trial opportunities.                                                             communications.
+                                                                                                                         • Reduced Renewals Team Wor
+                                                                                                                           as a workaround. They can now
+                                                                                                                         • Ensured Correct Data    : Cleane
+                                                                                                                           existent renewals.
+
+ Lay groundwork for Quota Relief and ACV fixes                                               QR/ACV Re-vamp project                      • Prioritized Issues    : Focused on
+                                                                                                                                           particularly around amendmen
+                                                                                                                                         • Corrected Calculations       : Reco
+                                                                                                                                           manual recalculations on quote
+                                                                                                                                         • Improved Internal Communica
+                                                                                                                                           about ACV/QR.
+                                                                                                                                         • Ongoing Discussions        : Continu
+                                                                                                                                           system level.
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                      What actions have I taken/will take related to this learning
+
+ Getting a consensus on how ACV and QR should work has been                       Further discussions with the Crediting team have provided detailed insights in
+ difficult. (Business Need vs System Limitations)                                 requirements for calculating QR and ACV. These requirements reveal limitation
+                                                                                  infrastructure, indicating that substantial changes will be necessary to suppor
+                                                                                  functionality. However, these requirements hinder future ability to make adjust
+                                                                                  adjustments are necessary.
+
+                                                                                  I have initiated discussions with the Crediting team to explore whether change
+                                                                                  could accommodate the issues I foresee with their request. We are continuing
+                                                                                  determine if there is a simpler method for the requested calculations or if a po
+                                                                                  necessary.
+
+ I learned that pain points and issues voiced by stakeholder                      The tickets for the QR/ACV project were designed with stakeholder pain point
+ teams, such as the Crediting team and Deal Desk, often went                      future development could address these issues. Additionally, I created a few s
+ unaddressed through regular bug tickets or a workaround was                      tackle some of these pain points, helping to reduce the time stakeholders nee
+ used.
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                             How I plan to accomplish it                      Status                    Quarter
+
+ Practice Tests and Training for Platform Developer                    Plan on setting aside time in the                  In progress               Q1 2024       Q2 2024
+ Certification                                                         morning each day to focus time on
+                                                                       learning.
+
+
+                                                                         1. Spend 5-20 minutes each morning
+                                                                            on focus on force. Take Notes.
+                                                                         2. Quick review at end of the day.
+                                                                         3. Prep for practice exam
+                                                                         4. Schedule real exam
+
+ Develop a tool that can be useful for both developers                 First we need to simplify the                      In progress               Q2 2024
+ and sales reps, alike. Primarily around the visualization             complexity of QR/ACV calculations to
+ and calculation of QR/ACV.                                            be easily understandable, with minimal
+                                                                       text. Then, create a reporting tool to
+                                                                       show how a quote’s ACV/QR are
+                                                                       calculated. This should be accessible
+                                                                       for general users (Reps) summarize
+                                                                       their ACV/QR, power users (crediting
+                                                                       team) to correct values, and admins.
+

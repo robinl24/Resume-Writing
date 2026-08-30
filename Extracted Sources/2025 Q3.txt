@@ -1,0 +1,74 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                  My Manager
+
+     Robin Lee                                 Donny Amalo
+
+
+
+Quarter:      Q3 2025                                                My Personal Ratings Assessment
+
+                                                                      No results from filter
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                       Related OKR(s)                  Details
+
+ Lost Maia
+
+ ACV Q2C
+
+ Data migration with ValorX
+
+
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                   What actions have I taken/will take related to this learning
+
+ Priotizing Meetings (especially with Q2C)                                    Hotfixes ongoing
+
+ Lost Maia → Leadership spot
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                          How I plan to accomplish it                    Status                  Quarter
+
+ Improve Documentation                                              Automation documentation is a very               In progress             Q1 2025       Q2 2025
+                                                                    iterative process that takes a long time
+                                                                    to do and it is hard to maintain,
+                                                                    especially given our team’s speed of
+                                                                    development.
+
+                                                                    I would like to work on strategizing
+                                                                    documentation for my parts of Deloitte
+                                                                    Implementation and continue work on
+                                                                    the ACV/QR documentation.
+
+ Certification for Dev 1                                            Schedule regular time to review and              In progress             Q2 2025       Q3 2025
+                                                                    study material every week.
+
+                                                                    Take monthly practice exams to
+                                                                    monitor progress

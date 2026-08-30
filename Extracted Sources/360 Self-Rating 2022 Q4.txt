@@ -1,0 +1,97 @@
+What are your most noteworthy results from the past 3 months that you feel demonstrate your performance? See engineering role rubrics here or here. Regardless of your specific role, your contributions are expected to increase in complexity and scope as you grow.
+
+This quarter, a major result was the transition of the Solution Engineering (SE) case assignments from Salesforce to Qualtrics (along with other improvements). The original request was to make the same solution work for new CPQ; however, I proposed reworking the survey to solve a lot of the issues and limitations that the SE team had experienced in the past. With this change, the SE team could make minor changes on the fly without relying on our SFDC team for the changes, especially when the SE team wants the change soon, but our team receives many more urgent requests that are prioritized over the SE requests. Additionally, a pain point for the SE team was the inability to be notified when a case assignment fails, so now their team is able to be immediately notified and can address issues when they occur, instead of weeks later when they are flagged as unresponsive. I think this is a  major improvement for the workflow of the SE team and it also delegates a lot of dev and admin work from the SFDC team to the SE team, who can make changes in assignment logic within their familiar environment of Qualtrics product.
+Request Help Surveys transition for Solution Engineering
+-This detaches a lot of responsibility for our team to maintain the survey
+-quicker turnaround on any routing issues, because the Solution Engineering team owns routing logic of the survey
+
+Account Team Member changes for forecasting
+-Changing 
+
+Case Assignment Rules updates
+
+
+
+Where did you fall short in fulfilling the responsibilities of an engineer at your level? Include missed OKRs if appropriate.
+
+This quarter, I was involved in larger projects like Request Help workflow changes and Forecasting changes for RevOps, where much of my time and focus was spent making these projects successful across multiple sprints. However, sometimes I invested too much time into these larger projects to the point that some smaller requests or tickets would be delayed or in a rare occurrence, end up getting picked up by another team member. The delayed tickets ended up not being as urgent as the larger projects I focused on, but I think that was more luck, since I was not always checking the urgency and/or priority of tickets. In the future, I hope to communicate earlier if I expect there to be tickets that will be delayed.
+
+
+Was there any other engineer in the CS&S org who was exceptionally helpful to you in your growth or accomplishments?
+Your answer will be shared in a public dashboard.
+Alan Huang was an exceptional mentor and tech lead for the Forecasting project we worked on for Revenue Ops. He not only led the team through all the challenges around the ever-changing requirements of the project, but he also took the time to patiently teach and guide me through some of my own tasks. Working with Alan on this project has been surprisingly pleasant for a project that has been very difficult to meet all the requirements for, and I have learned much under his mentorship as well. 
+
+
+What are your most noteworthy results from the past 3 months that you feel demonstrate your performance? See engineering role rubrics here or here. Regardless of your specific role, your contributions are expected to increase in complexity and scope as you grow.
+
+
+One Team:
+I focused on enabling our newer team members by helping them with any questions related to our system and any questions that come up during their support shifts.I want to make sure I’m available so that our newer members have no reservations about reaching out for help.
+
+Work with Deal Desk and CPQ project:
+Over the past two quarters, I’ve been working with Cordnei and deal support on training sales reps in our sandbox so they can learn Qualtrics Salesforce processes correctly to reduce problems brought up by reps for the deal desk team and our own team on support. Additionally, I’ve been working with Cordnei and new CPQ testers to manage their permissions in the sandbox.
+
+Developer Training:
+This quarter in particular, I’ve been able to work on more impactful developer tickets like developing the tracking of account team member histories and through the development  process. After working on these large tickets, I feel more capable to do more developer work as well. 
+
+
+Please outline three areas where you feel that you can improve
+Communication improvements with stakeholders.
+As I’ve been working on more complex requests, I think it’s becoming more important to communicate with stakeholders earlier on in the development process. The smaller tickets have been simple enough to make any last minute changes with proper testing, but as the tasks become more complex, I am starting to value earlier communication more.
+
+Communication with Request Help Users.I think trying to juggle all the conversations and emails has been difficult for finding Request Help survey owners. Trying to get a response from survey owners who may not be interested in taking ownership of the surveys has been a challenge. Dallas and Kat Free have kindly let me rely on them for help in the process. But I certainly should have reached out for help earlier.
+
+Keeping track of OKR progress:
+I think I have some difficulty tracking progress on my own OKRs during a quarter. 
+
+
+
+
+
+
+
+I think this quarter was a time where I was taking over responsibilities and owning some of the processes within our org. At the beginning of the quarter, I completed the internal Dev training with Dan which helped me better understand our org’s development processes and best practices. Including doing some of our deployment processes that we do biweekly like refreshing our templated sandbox and deploying changes to production. 
+With Eunsol leaving our team, I took over responsibility for Request Help Survey related issues and tasks. One of the immediate tasks I needed to do was scope out Request Help changes that were needed for the upcoming new CPQ implementation. Currently, we have the most important of the changes ready and there are plans for completing the conversion in the next quarter. My goal here is to make the transition smooth for all departments involved and I believe we are headed in that direction.
+
+
+
+
+-Completing Internal Developer Training
+Training with Dan helped me 
+-Taking over responsibilities for the Request Help Survey
+-Scoping out changes for Request Help (new CPQ)
+-Contribute to helping out on Support
+
+
+Where did you fall short in fulfilling the responsibilities of an engineer at your level? Include missed OKRs if appropriate.
+This quarter I think I missed some in terms of my goals for personal development in studying for the Certification exams. Although I was able to complete a practice exam, I feel like I might have fallen a little short on how much I was able to learn through Trailheads. The knowledge that is covered on the certification exam may not directly affect my current job responsibilities, but I think it is important to have this knowledge to be familiar with aspects of Salesforce that our org may not use as frequently. 
+
+
+Was there any other engineer in Chris's org who was exceptionally helpful to you in your growth or accomplishments?
+Your answer will be shared in a public dashboard.
+Dan White was incredibly helpful in helping me nearly every week. Not only did he make some of the muddiest parts of training clear, but he also made the process enjoyable. Working is more enjoyable because I feel more comfortable working in our Dev environment and I feel more enabled to be able to work independently on the team. 
+
+
+
+
+
+Please consider what you have done (OKRs, impact etc), AS WELL as how you contribute to Qualtrics (DEI, QGroups, alignment to TACOS).
+
+My quarter was split between continuing work on the QE team and onboarding for the SFDC dev role. In the first half of the quarter, I focused on onboarding Oscar, the new member of the QE team. I ensured that Oscar was familiar and comfortable with the responsibilities as a new QE to make the transition easier for all parties involved Devs, Admins and QE team. Additionally, I prepared the hand-off of any documentation and tools to the QE team, such as those dealing with TestRail and testing processes. In the second half of the quarter, I began onboarding for the SFDC dev role. Since I was familiar with the team and the system as a whole, the onboarding was primarily completing the Salesforce Trailheads (Beginner Admin and Beginner Dev) and working on Admin JIRA tickets to familiarize myself with our Agile development process. Some of my work was in the second part of the “Renewals Improvement” and the “Stripe Automation” projects, which I believe was a great way to incorporate my QE background in the development process, but also to better understand the Development Process for multi-sprint projects for the future.
+
+
+Please outline three areas where you feel that you can improve. (1000 characters)
+
+One of the goals set out was to take on a full support shift in the weekly support cycle. I am currently doing one support shift every two weeks. I think this would be a good opportunity for me to learn more about our system when troubleshooting issues, especially now that I have more SFDC admin knowledge from working on Sprints and Trailheads.
+
+I would like to have made more progress in learning the deployment process for our team’s developer process, but I believe there should be plenty of time to incorporate this improvement action next quarter. 
+
+I think I need to ask more questions internally about Sprint tickets. Specifically, I would refer to the issue in deployment with the API name update ticket (SFDC-9479). I think with two newer members working on this change, I should have referred to a more senior team member for some guidance to avoid the issue we had during deployment. 
+
+
+ In the meantime, I have been working on shadowing support issues that needed significant follow up or troubleshooting even when I am not on the support shift, as a part of onboarding on our system.
+
+I’ve made efforts to be more involved in the mock deploys to learn as much as I can from shadowing the process, but I do not feel at all comfortable to be able to run one on my own, yet.
+
+
+Stakeholders with Renewals Improvement Testing

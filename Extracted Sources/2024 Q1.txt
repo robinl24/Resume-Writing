@@ -1,0 +1,119 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                     My Manager
+
+      Robin Lee                                   Donny Amalo
+
+
+
+Quarter:       Q1 2024                                                     My Personal Ratings Assessment
+
+                                                                             Met Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                            Related OKR(s)                     Details
+
+ Documentation of QR / ACV process and calculations                          QR and ACV Calculations will     Stakeholders/business leaders are
+                                                                             be trued up to business need     and how it should be calculated.
+
+                                                                                                              I created a coda document that wa
+                                                                                                              https://coda.io/d/SFDC-Team-Wiki
+
+
+                                                                                                              This will be used to help communic
+                                                                                                              future conversations around “fixing
+
+ Comparison of Old CPQ and New CPQ functionality                                             QR and ACV Calculations will             We were seeing gaps of functional
+                                                                                             be trued up to business need
+
+                                                                                                                                      Review of our old CPQ calculations
+                                                                                                                                      over and functionality that we adop
+                                                                                                                                      exit rate, which was a major dis
+
+
+
+                                                                                                                                      This is laying the ground work for o
+
+ Analyze and Reduce Support Cases                                                            The team will catch up on                Our team saw a large influx of supp
+                                                                                             tech design for bugs in the              constraints of support, not a lot of
+                                                                                             backlog
+
+                                                                                                                                      Sasha, Sophia, and I recorded, revi
+                                                                                                                                      frequent support issues.
+
+
+                                                                                                                                      The tickets created have potential
+                                                                                                                                      further address repeating issues.
+
+ Tech Design and Scoping Contract Data issues                                                The team will catch up on                We had a couple data integrity issu
+                                                                                             tech design for bugs in the              contracts is not aligned amongst s
+                                                                                             backlog                                  impacts Renewal data and significa
+                                                                                                                                      around 800 contracts)
+
+
+
+                                                                                                                                      Doing a data analysis and scoping,
+
+
+                                                                                                                                      This lays the groundwork for the d
+                                                                                                                                      system.
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                      What actions have I taken/will take related to this learning
+
+ Scott (previously QE) has automated tests that seem to be able                   I will need to look into what the lift might be for our team to adopt automated
+ to provide a level of test coverage of QCP (something Apex                       testing coverage. It looks like a promising way to storing the testing scenarios
+ struggles to cover)                                                              Finance would like to test before approving changes.
+
+ Our Salesforce CPQ system currently relies on many series of                     I have moved some of these async operations to QCP, so that the automation
+ asynchronous operations for automations for our custom code,                     (usually in renewal quote scenarios). And I will be further tech designing more
+ but in testing, we are finding gaps where the async operations                   to run in QCP.
+ fail to run at the correct time.
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                             How I plan to accomplish it                      Status                    Quarter
+
+Learn and implement ChatGPT in our support intake                      McKay Berndt had a plan to implement                Not started               Q1 2024
+process                                                                ChatGPT in intake of support requests
+                                                                       to Deal Desk, but it was tabled due to
+                                                                       de-prioritization. I want to spend some
+                                                                       time learning what we had and if
+                                                                       there’s something that I am able to
+                                                                       contribute to the project’s
+                                                                       development.
+
+Practice Tests and Training for Platform Developer                     Plan on setting aside time in the                   In progress               Q1 2024        Q2 2024
+Certification                                                          morning each day to focus time on
+                                                                       learning.
+
+
+                                                                          1.Spend 5-20 minutes each morning
+                                                                            on focus on force. Take Notes.
+                                                                         2. Quick review at end of the day.
+                                                                         3. Prep for practice exam
+                                                                         4. Schedule real exam

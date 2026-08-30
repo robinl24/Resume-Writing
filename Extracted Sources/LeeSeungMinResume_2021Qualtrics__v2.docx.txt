@@ -1,0 +1,53 @@
+SEUNGMIN (ROBIN) LEE
+1225 W 1000 S Apt C324 Orem, Utah, 84058                    ǀ    770.668.0544        ǀ   Seungmin.Lee@Live.com                ǀ     US Citizen
+SUMMARY
+Enthusiastic Python programmer with experience in developing scripts for research, internal workflow automations, and
+free time projects. Strive to develop innovative solutions to difficult problems with all tools available. Cursory work with
+both frontend and backend development, with readiness to develop deeper knowledge and skills.
+EDUCATION
+Georgia Institute of Technology, Atlanta, GA                                                                       August 2015 - May 2019
+- Bachelor of Science in Materials Science and Engineering
+- Minor in Physics
+- Graduated with Highest Honors
+
+RESEARCH & WORK EXPERIENCE
+Junior Software Test Engineer                                                                                          March 2021 - Present
+Qualtrics – SAP, Provo, UT
+- Testing functionality of internal Salesforce instance
+- TestRail automation tools for generating necessary biweekly updates to TestRail Milestones
+- TestRail historical testing data management to review for automated testing
+
+Product Specialist                                                                                          November 2019 - March 2021
+Qualtrics – SAP, Provo, UT
+- Certified in XM Qualtrics Platform
+- Specialized in 360 Platform
+- Mentored a new member of the team, who has been recognized for high productivity after working 2 months
+- Recognized by peers for intricate and complex solutions with XM Platform
+- Proposed method for developing IP Address restricted survey responses for survey protection
+
+Undergraduate Researcher and Advisor                                                                              October 2016 - July 2019
+Georgia Institute of Technology Computational NanoBio Tech Lab, Atlanta GA
+- Investigated micelle and polymer miscibility with molecular dynamic simulations for the Department of Energy
+- Presented reactant transport through micelles at poster session at AICHE conference
+- Published 4 papers with one first author credit
+- Studied transport of reactants with dissipative particle dynamics
+- Trained and led team of junior students on research equipment and techniques
+- Wrote technical manuals for future grad/undergrad students to follow
+
+
+PROJECTS
+Work Flow Automations Team                                                                                             June 2020 - July 2020
+- Developed Regression tagging on Resolution Team’s pulses to increase tracking and prioritizing of issues sent to Eng
+- Implemented modifications to place OOO Clinic tickets into the main queue for quicker responses on internal issues
+- Completed certifications to work on Propriety Workflow codebase (Odo QBadge)
+
+SKILLS
+Programming: Python 2, JavaScript, Java, Linux, Html/CSS, MatLab, Regex, PHP, and VBA
+Software: Solidworks, Cerius2, Material Studios, and Microsoft Suite
+Languages: Fluent in English; conversational in Korean
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+Please consider what you have done (OKRs, impact etc), AS WELL as how you contribute to Qualtrics (DEI, QGroups, alignment to TACOS).
+
+My quarter was split between continuing work on the QE team and onboarding for the SFDC dev role. In the first half of the quarter, I focused on onboarding Oscar, the new member of the QE team. I ensured that Oscar was familiar and comfortable with the responsibilities as a new QE to make the transition easier for all parties involved Devs, Admins and QE team. Additionally, I prepared the hand-off of any documentation and tools to the QE team, such as those dealing with TestRail and testing processes. In the second half of the quarter, I began onboarding for the SFDC dev role. Since I was familiar with the team and the system as a whole, the onboarding was primarily completing the Salesforce Trailheads (Beginner Admin and Beginner Dev) and working on Admin JIRA tickets to familiarize myself with our Agile development process. Some of my work was in the second part of the “Renewals Improvement” and the “Stripe Automation” projects, which I believe was a great way to incorporate my QE background in the development process, but also to better understand the Development Process for multi-sprint projects for the future.
+
+
+Please outline three areas where you feel that you can improve. (1000 characters)
+
+One of the goals set out was to take on a full support shift in the weekly support cycle. I am currently doing one support shift every two weeks. I think this would be a good opportunity for me to learn more about our system when troubleshooting issues, especially now that I have more SFDC admin knowledge from working on Sprints and Trailheads.
+
+I would like to have made more progress in learning the deployment process for our team’s developer process, but I believe there should be plenty of time to incorporate this improvement action next quarter. 
+
+I think I need to ask more questions internally about Sprint tickets. Specifically, I would refer to the issue in deployment with the API name update ticket (SFDC-9479). I think with two newer members working on this change, I should have referred to a more senior team member for some guidance to avoid the issue we had during deployment. 
+
+
+ In the meantime, I have been working on shadowing support issues that needed significant follow up or troubleshooting even when I am not on the support shift, as a part of onboarding on our system.
+
+I’ve made efforts to be more involved in the mock deploys to learn as much as I can from shadowing the process, but I do not feel at all comfortable to be able to run one on my own, yet.
+
+
+Stakeholders with Renewals Improvement Testing

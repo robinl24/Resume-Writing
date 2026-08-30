@@ -1,0 +1,105 @@
+Robin's Quarterly Review
+
+
+
+
+
+
+
+
+ My Name                                    My Manager
+
+      Robin Lee                                  Donny Amalo
+
+
+
+Quarter:       Q1 2025                                                   My Personal Ratings Assessment
+
+                                                                            Met Expectations
+
+
+
+
+
+
+
+
+My Accomplishments
+
+ Accomplishment                                                           Related OKR(s)                    Details
+
+ Update ACV/QR naming to standardize terminology                           Update ACV/QR Naming              High-Priority Initiative: Standardiz
+                                                                                                             language
+
+                                                                                                             Strategic Planning: Coordinated a
+
+                                                                                                             Cross-Team Collaboration: Worke
+                                                                                                             functional and unaffected by the c
+                                                                                                             Enhanced Inter-Department Com
+                                                                                                             in language used to describe ACV,
+                                                                                                             Crediting, and Renewals teams.
+
+ Architecture of Simplication of ACV/QR Discounting                                        Scoping and Design of                   Engagement with Salesforce: Col
+                                                                                           QR/ACV Architecture                     box functionalities.
+
+                                                                                                                                   Improved Functionality: Scoped m
+                                                                                                                                   flexibility.
+                                                                                                                                   Testing New Strategies: Evaluated
+                                                                                                                                   our current system.
+
+                                                                                                                                   Streamlined Discounting Process
+                                                                                                                                   team. Enhancing efficiency and allo
+                                                                                                                                   Potential Impact: After implementa
+                                                                                                                                   amendments will only require a qua
+                                                                                                                                   quantity. This streamlining reduces
+
+ Net Zero Amendments in ACV Calculations                                                   ACV Accuracy                            Improve ACV Accuracy: Develope
+                                                                                           QR Accuracy                             changes are made by the user.
+                                                                                                                                   Reduce Friction between Sales an
+                                                                                                                                   ACV/QR implication on these net $
+
+                                                                                                                                   Impact: This will impact initial view
+                                                                                                                                   adjustments that Crediting has ma
+
+
+
+
+My Learnings
+
+
+
+
+ What I learned this quarter                                                    What actions have I taken/will take related to this learning
+
+ Salesforce Best Practices around OOTB CPQ                                      This quarter, I created nearly three times as many Salesforce cases compared
+                                                                                Through these extended case conversations, I gained tailored advice that bet
+                                                                                Salesforce CPQ’s out-of-the-box functionality rather than relying on custom so
+                                                                                our level of customization.
+
+ Value of Good Tech Design                                                      During the recent quarter, I dedicated additional time to technical design for ti
+                                                                                This investment has enabled other developers to work more independently on
+                                                                                tickets. As a result, our team is now relying less on my input for ACV/QR issues
+                                                                                developing these solutions with minimal intervention from me. This shift has a
+                                                                                attention on other projects.
+
+
+
+My Career Goals (Set 2-3 goals for the upcoming quarter)
+
+ What I want to accomplish                                           How I plan to accomplish it                      Status                   Quarter
+
+ Complete Training and Shadowing for Interviewing                     Allocate some time at the end of                  Done                     Q1 2025       Q2 2025
+                                                                      sprints and make sure Ethan is aware
+                                                                      that I am ready to do shadowing for
+                                                                      interviews.
+
+Improve Documentation                                                 Automation documentation is a very                  In progress               Q1 2025       Q2 2025
+                                                                      iterative process that takes a long time
+                                                                      to do and it is hard to maintain,
+                                                                      especially given our team’s speed of
+                                                                      development.
+
+                                                                      I would like to work on strategizing
+                                                                      documentation for my parts of Deloitte
+                                                                      Implementation and continue work on
+                                                                      the ACV/QR documentation.
