@@ -1,12 +1,12 @@
 # Resume Refresh Handover
 
-Last updated: September 19, 2026 (evening). The 16% → 8% memory is retired; use the tracked Q4 2024–Q3 2025 Crediting table.
+Last updated: September 28, 2026. Working draft: [11_Robin_Lee_Senior_Salesforce_Developer_Resume.md](11_Robin_Lee_Senior_Salesforce_Developer_Resume.md). Writer-facing brief: [12_Resume_Reviewer_Handover.md](12_Resume_Reviewer_Handover.md).
 
 This file is the handoff for the next person or session. Do not invent metrics, titles, or outcomes. Prefer the user's words in [09_Transition_Timeline_Interview.md](09_Transition_Timeline_Interview.md) over polished resume language.
 
 ## Goal
 
-Robin Lee (legal name Seungmin / SeungMin Lee) wants a new Senior Salesforce Developer resume and LinkedIn update after nearly six years. Target role is **Senior Salesforce Developer**, with finance partnership and senior-level ownership as the differentiators. Robin currently lives in Utah. Job search is **remote and other cities** (Seattle still fine). **Actively avoid Utah-based roles.** Robin is open to paying a technical resume writer later, but evidence gathering comes first.
+Robin Lee (legal name Seungmin / SeungMin Lee) wants a new resume and LinkedIn update after nearly six years. Target roles are **Senior Salesforce Developer** or **Salesforce Architect**, with finance partnership and senior-level ownership as the differentiators. Robin currently lives in Utah. Job search is **remote and other cities** (Seattle still fine). **Actively avoid Utah-based roles.**
 
 Work in small question-and-answer batches. Robin answers questions better than filling outlines.
 
@@ -28,7 +28,9 @@ Original materials:
 - `LeeSeungMinResume_2021Qualtrics__v2.docx.pdf` — last public resume, about 2021
 - `Qualtrics Self Evals/` — self-evaluations from 2021 through Q3 2025
 - Searchable text copies in `Extracted Sources/`
-- Current two-page draft: `Working Drafts/Robin_Lee_Senior_Salesforce_Developer_Resume.pdf`
+- Current interview-based draft: `Working Drafts/11_Robin_Lee_Senior_Salesforce_Developer_Resume.md` (one Qualtrics developer role, two phase subtitles: Salesforce CPQ implementation, Quote-to-Cash). Custom/legacy CPQ is the start of the implementation chapter, not its own section. Never use “homebrew.”
+- Writer-facing brief (send this, not this internal file, to a paid reviewer): `Working Drafts/12_Resume_Reviewer_Handover.md`
+- Older two-page PDF (missing 2023–2026 interview stories): `Working Drafts/Robin_Lee_Senior_Salesforce_Developer_Resume.pdf`
 
 Self-evaluations used earlier in this project:
 
@@ -55,7 +57,7 @@ Earlier working drafts (`00` through `08`, evidence bank, LinkedIn draft, Seattl
 
 Use this narrative:
 
-> Senior Salesforce Developer who translates finance and operational needs into reliable, scalable Salesforce CPQ / Quote-to-Cash solutions and raises team delivery quality.
+> Senior Salesforce Developer or Architect who translates finance and operational needs into reliable, scalable Salesforce CPQ / Quote-to-Cash solutions and raises team delivery quality.
 
 Supporting themes:
 
@@ -130,6 +132,7 @@ Do **not** put delayed Salesforce certification on the resume unless a completed
 - Qualtrics-specific ACV treated each amendment as rewriting the contract. Example: a 3-year contract amended mid-year 2 calculated as a 2-year contract. That also created an incentive to change deals without significant new revenue. Resume must not accuse reps of gaming pay.
 - Robin proposed contract-based ACV: one standardized methodology, changes only when they bring significant revenue.
 - Backward compatibility: one engine ran on new and existing data, avoiding a historical-data rewrite and dual methodologies. Consultants and business initially treated this as unnecessary.
+- During Q2C Robin’s role shifted from IC developer to technical design and code review: 2 Qualtrics developers, 5 contractors covering Qualtrics capacity, and 10+ project contractors. Do not write this as managing a team of 17.
 - Q2C was rushed around an acquisition. If ACV/QR were significantly wrong, the project was at risk. Robin said **over $10 million** on contractors can be mentioned as “$10M+ contractor-led.” Do not say “no refund.”
 - Launch delayed many times; org rolled out in **May 2026**. Robin said it “failed spectacularly” — notes only. Resume: delayed May 2026 go-live; other areas without backward compatibility had severe defects; do **not** write that ACV/QR failed. Earlier account: ACV/QR calculations were ready; remaining asks were deal processing.
 - Pre-launch tracked rates are Q3 2025: ACV 2.8%, QR 5.3% of reviewed larger deals. Do **not** treat the “5% of closed deals” memory as the QR cutoff until confirmed.
@@ -147,8 +150,8 @@ Use only if still accurate after Robin’s newer stories:
 - ~$250M Q3 reporting figure — VERIFY wording (prevented vs corrected vs identified)
 - ~800 contracts data-integrity scoping — VERIFY remediation result
 - ACV/QR adjustment-rate figures around 3.5% / 3% — clipped 2025 Q2 eval; tracker is the source of truth (Q2 ACV 3.3%, target 3%)
-- STE: primary tester on 139 of 181 tickets; onboarding docs 10 → 50 pages
-- Product Specialist: Qualtrics 360, mentoring, workflow automations
+- STE highlight: Salesforce org testing that also built fluency in Salesforce and org automations; stated plus implied technical requirements; better stakeholder acceptance; absorbed stakeholder back-and-forth so testers were not stuck mediating; documented test steps for new and old development to start automation (little/no docs before). Do not claim automation shipped. Do not put 139/181 on the resume. Do not stack the older 10 → 50 page onboarding story unless Robin says it is separate.
+- Product Specialist: client-facing; 4.8/5 reviews vs 4.5 average; bot-detection workaround without code changes (likely the 2021 IP-restricted survey-protection story). Do not put mentoring, internal workflow automations, or “lower productivity” on the resume.
 - Research: four papers, one first author
 
 Named so far: Salesforce CPQ (SteelBrick), Cancel & Replace, QCP JavaScript, Apex, LWC, Flow, SOQL, Salesforce CLI, Git. Use **Salesforce CLI**, not SFDX. Do not claim ownership of Cancel & Replace until Robin says so. Do not invent Copado/Jenkins/Gearset. **No completed Salesforce certification.** Do not list unfinished or delayed certs.

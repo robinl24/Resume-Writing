@@ -223,6 +223,16 @@ Backward compatibility meant the new calculations could run on both new and exis
 
 Consultants’ design and the business initially treated backward compatibility as unnecessary. Robin’s foresight in making everything backwards compatible went against that. Resume language: do not say “against the contractor’s design” or “the business misunderstood its own requirements.” Frame as insisting on backward compatibility so one engine could run on legacy and new data.
 
+### Role during Q2C
+
+Robin’s role changed significantly from individual-contributor developer to technical design and reviewing code. Scope of review:
+
+- 2 Qualtrics developers
+- 5 contracted developers covering capacity on the Qualtrics side
+- Over 10 developers contracted to help directly with the project
+
+Do **not** write this as people management of 17 developers. Frame as technical design and code review across those groups.
+
 ### Launch under acquisition pressure
 
 The Q2C project was rushed because the business was under pressure from acquiring a new company and needed to complete the project regardless of the end state. If ACV/QR calculations were off significantly, the entire project would be at risk. More than $10 million had been spent on contractors. Robin said the contractor figure of over $10 million can probably be mentioned. Resume may use “$10M+ contractor-led Quote-to-Cash.” Do not say “no refund.”
@@ -255,6 +265,24 @@ Robin used **Salesforce CLI** and **Git** in regular work and noted this is not 
 Already evidenced in earlier stories, even if not listed here: QCP JavaScript, Salesforce CPQ automations, amendment/renewal/new-business testing, Crediting/Renewals tooling.
 
 Robin also used **Apex, LWC, Flow, and SOQL**. Skills list for drafts: Salesforce CPQ (SteelBrick), Cancel & Replace, QCP JavaScript, Apex, LWC, Flow, SOQL, Salesforce CLI, Git. No completed Salesforce certification. Do not mention delayed or unfinished certification study.
+
+## Software Test Engineer (2021–2022)
+
+The main STE experience Robin wants highlighted: attention to stated user requirements, plus finding the requirements stakeholders would have wanted if they knew the technology better. That led to better stakeholder acceptance and a relationship with testers so testers did not have to handle back-and-forth communication with stakeholders.
+
+Testing was in Salesforce. That year also let Robin get familiar with Salesforce and the org automations as a whole, which later supported the move into development. Resume can say Salesforce org testing and end-to-end fluency in org automations; do not make it sound like a student internship.
+
+Robin also began documenting testing steps for new and old development to start automated tests. Previously the team had little to no documentation. Resume: documented test steps so automation could start; do not claim an automation suite shipped. The older 10 → 50 page onboarding-docs story may overlap; do not put both on the resume unless Robin says they are different.
+
+Resume language: do not condescend to stakeholders. Frame as translating stated needs and implied platform requirements, then absorbing the clarification loop so testers could stay on testing. Do **not** put 139/181 primary-tester volume on the resume; Robin treats that as internal promotion evidence.
+
+## Product Specialist (2019–2021)
+
+Client-facing role. Robin held consistent **4.8/5** customer review scores against averages of **4.5**. Productivity was lower than some peers; Robin compensated with quality of service. Do **not** put the lower-productivity note on the resume.
+
+Without a code change, Robin built an alternative to the product’s insufficiently reliable bot-detection system. The 2021 resume’s IP-restricted survey-response / survey-protection work is treated as the same story unless Robin says otherwise. Resume language: do not attack the product; say built-in bot detection was not reliable enough for some clients, and Robin delivered a configuration workaround.
+
+Do **not** put mentoring or internal workflow automations on the resume. Those stay in older source files only.
 
 ## Contact and location
 
