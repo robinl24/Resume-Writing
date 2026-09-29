@@ -1,0 +1,203 @@
+Example Job Listings
+
+Salesforce Developer Role----------------------------------------------------------------------------
+
+About Anthropic
+
+Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy experts, and business leaders working together to build beneficial AI systems.
+
+About The Role
+
+As a Salesforce Developer at Anthropic, you will design, build, and maintain the Salesforce platform that powers our core customer motions and quote-to-cash business.: This includes automation throughout the Salesforce platform ranging from core sales automation to product catalog and pricing, quoting and approvals, order and contract management, and the handoff to billing and provisioning. You'll work both autonomously and collaboratively across RevOps, Order Management, Legal, Billing Engineering, Deal Desk, Finance and Accounting, and Product to translate pricing and packaging requirements into scalable Apex, Flow, and integration solutions, and to extend our capabilities with custom code where necessary. We are an AI-first systems team, and you'll be expected to use Claude and our in-house AI development tooling as a core part of how you write, review, and ship code, always against our house standards for flexibility, maintainability, and scale.
+
+Key Responsibilities
+
+
+•	Develop and maintain Apex (triggers, services, selectors, batch/queueable), Lightning Web Components, and Flow automation following our house Apex standards and trigger framework
+•	Design and build quote-to-cash infrastructure in Salesforce, including the product catalog and pricing data model, quote and order lifecycle, discount and approval automation, and amendment, renewal, and co-termination flows
+•	Extend CPQ and expand into agentic selling with custom pricing and quote-calculation logic, quote and order user experiences, and code built against the package's APIs and data model
+•	Build and own integrations between Salesforce and our billing, provisioning, and finance systems, such as Stripe, Metronome, and NetSuite, directly or via middleware
+•	Support new product and pricing launches by modeling catalog, SKU, and pricing changes so they can be released quickly and reflected consistently in every downstream system
+•	Use Claude and our internal AI development tooling as a first-class part of your build and code-review workflow
+•	Partner with Business Systems analysts and Finance to ensure data-model decisions support downstream bookings, forecasting, and revenue reporting
+•	Partner with DevOps on release management for your work: sandbox strategy, source control, peer review, and deployment via SFDX/metadata tooling
+•	Ensure appropriate controls, test coverage, and documentation are in place for an effective control environment, particularly around pricing, discounting, and contract changes
+•	Operate with ambiguity in a rapidly changing business, resolve problems independently, and propose solutions that scale
+
+Minimum Qualifications
+
+
+•	Hands-on Salesforce development experience (Apex, SOQL, LWC, Flow) in a production org
+•	Experience building or extending CPQ and quote-to-cash functionality in Salesforce (Salesforce CPQ, Revenue Cloud, Nue, or similar): product and pricing data models, quote and order lifecycle, approval automation, and amendments and renewals, including custom code written against the CPQ package rather than configuration alone
+•	Experience integrating Salesforce with billing, ERP, or provisioning systems via REST/Bulk APIs, middleware (Workato, Mulesoft, or similar), or direct callouts
+•	Fluency with SFDX, source-controlled metadata, and a sandbox-to-prod release process with peer review
+•	Active use of AI-assisted development tools (Claude, Copilot, Cursor, or similar) as part of how you write and review code, and the ability to speak to how you steer and verify their output
+•	Basic SQL skills and comfort working alongside a data warehouse
+•	Effective communication with sales, deal desk, finance and accounting, product, and engineering stakeholders
+
+Preferred Qualifications
+
+
+•	Salesforce Platform Developer I and II certifications
+•	Advanced Administrator or Application/System Architect certification
+•	Deep understanding of Salesforce platform constraints: governor limits, bulkification, sharing and visibility, recursion control, and how they surface in CPQ-specific situations such as large quotes, calculation performance, and bulk amendments
+•	Experience implementing a CPQ solution end to end or re-platforming from one CPQ to another, not just maintaining an existing one
+•	Experience with billing and finance platforms such as Stripe, Metronome, or Oracle, and with usage-based or consumption pricing models
+•	Working understanding of how CPQ design decisions flow through to bookings, invoicing, and revenue recognition
+•	Proven experience scaling Salesforce in a high-growth GTM environment
+
+The annual compensation range for this role is listed below.
+
+For sales roles, the range provided is the role’s On Target Earnings ("OTE") range, meaning that the range includes both the sales commissions/sales bonuses target and annual base salary for the role.
+
+Salesforce Developer Role----------------------------------------------------------------------------
+
+Who is Tenable?
+
+Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. Come be part of our journey!
+
+What makes Tenable such a great place to work?
+
+Ask a member of our team and they’ll answer, “Our people!” We work together to build and innovate best-in-class cybersecurity solutions for our customers; all while creating a culture of belonging, respect, and excellence where we can be our best selves. When you’re part of our #OneTenable team, you can expect to partner with some of the most talented and passionate people in the industry, and have the support and resources you need to do work that truly matters. We deliver results that exceed expectations and we win together!
+
+Applicants must be authorized to work for any employer in the U.S. without sponsorship. We are unable to provide sponsorship for work visas of any kind at the time of hire, or at any point during employment. This includes, but is not limited to: F1-OPT, F1-CPT, H-1B, TN, J-1, etc
+
+Your Role
+
+Tenable is looking for a Salesforce Developer to join our Business Technology team. This is a technical role — you are a builder first. You will own the design, development, and delivery of complex Salesforce solutions that power our go-to-market engine, including our Data Cloud platform, Agentforce AI automation, and core Sales, Service, and CPQ clouds.
+
+You write Apex and Lightning Web Components the way engineers write code: with testability, version control, and production deployments in mind. You are comfortable in a terminal, fluent with the Salesforce CLI, and you treat CI/CD pipelines as table stakes, not nice-to-haves.
+
+You will serve as a technical lead on the Business Technology Salesforce team, mentoring peers, setting development standards, and partnering directly with business stakeholders to translate complex requirements into elegant, scalable solutions.
+
+Your Opportunity
+
+Platform Development
+
+
+•	Design and build complex Salesforce solutions using Apex (classes, triggers, batch, async), Lightning Web Components (LWC), and declarative tooling (Flow, custom metadata).
+•	Own the full development lifecycle: requirements analysis, technical design, code review, testing, and production deployment through sandbox environments using Salesforce CLI and SFDX.
+•	Establish and enforce coding standards, test coverage requirements, and architectural best practices across the Salesforce platform.
+•	Lead technical design reviews and contribute to a culture of engineering excellence on the BizTech team.
+
+Data Cloud & AI
+
+
+•	Build and maintain Data Cloud (Data 360) data streams, data model objects (DMOs), calculated insights, and activation targets to support unified customer profiles.
+•	Develop and configure Agentforce agents, Einstein AI features, and prompt templates to automate workflows and enhance the seller and support experience.
+•	Collaborate with data engineering teams to integrate Salesforce with external data lakes (Databricks) using SQL, REST/SOAP APIs, and MuleSoft or direct connectors.
+•	Write and optimize SQL queries for data validation, exploration, and pipeline debugging across Databricks and Salesforce Data Cloud.
+
+DevOps & CI/CD
+
+
+•	Manage the full deployment lifecycle across scratch orgs, sandboxes (dev, QA, staging, UAT), and production using Salesforce DX, SFDX CLI, and source-driven development workflows.
+•	Build and maintain CI/CD pipelines (GitHub Actions, Bitbucket, Jenkins, Coapdo, Gearset or equivalent) for automated testing, static analysis (PMD/ESLint), and deployment gating.
+•	Champion version control best practices: branching strategy, pull request reviews, and release management in Git.
+•	Comfortable operating in a terminal environment; able to script and automate routine tasks using shell, Python, or Node.js.
+
+Integrations & Architecture
+
+
+•	Design and implement integrations between Salesforce and external platforms including NetSuite, Workday, Clari, Certinia, and MuleSoft.
+•	Evaluate and recommend platform architecture decisions, balancing declarative vs. programmatic approaches for scalability, performance, and maintainability.
+•	Maintain data integrity, governor limit awareness, and security best practices (sharing rules, field-level security, platform encryption) across all solutions.
+
+Collaboration & Leadership
+
+
+•	Partner with business stakeholders, product owners, and business analysts to translate complex requirements into technical specifications.
+•	Conduct code reviews and provide constructive, educational feedback to developers and admins.
+•	Develop and maintain technical documentation for system architecture, integration patterns, and deployment runbooks.
+
+What You'll Need
+
+
+•	This position is US-based only.
+•	5+ years of hands-on Salesforce development experience in an enterprise environment.
+•	Expert-level proficiency in Apex (asynchronous patterns, governor limits, test-driven development) and Lightning Web Components (LWC).
+•	Strong working knowledge of Salesforce Data Cloud / Data 360: data streams, DMOs, identity resolution, segments, and activations.
+•	Hands-on experience with Salesforce CLI (SFDX), source-driven development, and managing deployments through multiple sandbox environments to production.
+•	Practical experience building or maintaining CI/CD pipelines for Salesforce (GitHub Actions, Bitbucket Pipelines, Jenkins, Gearset, Copado, or similar).
+•	Proficiency in SQL; experience working with data lake platforms such as Databricks, Snowflake, or similar for data exploration, validation, and integration.
+•	Comfort operating in a terminal/CLI environment; able to read, write, and debug shell commands and scripts independently.
+•	Familiarity with Agentforce, Einstein AI features, or prompt-based automation within the Salesforce platform.
+•	Excellent communication skills; able to translate technical concepts for non-technical stakeholders and lead design discussions with peers.
+•	Self-directed with a strong ownership mindset — you drive initiatives to completion without needing hand-holding.
+•	Exposure to AI-assisted development tooling (e.g., Claude Code, GitHub Copilot) and comfort integrating these into daily workflows.
+•	May perform other duties and responsibilities that management may deem necessary from time to time.
+
+And Ideally
+
+
+•	Experience with MuleSoft, REST/SOAP API integration design, and event-driven architecture (Platform Events, Change Data Capture).
+•	Familiarity with NetSuite, Workday, Clari, or Certinia (FinancialForce) integrations.
+•	Experience with Salesforce CPQ or Revenue Cloud.
+•	Active Salesforce certifications: Platform Developer I & II, Data Cloud Consultant, Application Architect, or Agentforce Specialist.
+•	B2B SaaS or cybersecurity industry experience.
+
+This is the base pay range for this position. Compensation for the role will depend on a number of factors, including the candidate's qualifications, skills, competencies, location and experience, and may fall outside of the range shown. Employees are also eligible for variable compensation in addition to base pay (commission for sales roles, bonus for non-sales roles), depending on company and individual performance. Tenable also offers a variety of comprehensive and competitive benefits which include: medical, dental, vision, disability and life insurance; 401(k) retirement savings with company match; an employee stock purchase plan; an employee referral program; flexible spending accounts; an Employee Assistance Program (EAP); education assistance; parental leave; paid time off (PTO); company-paid holidays; health and wellness events; and community programs.
+
+
+Salesforce Developer Role----------------------------------------------------------------------------
+
+About the job
+Shaw Industries Group, Inc. is a leader in flooring and other surface solutions designed for residential housing, commercial spaces and outdoor environments. Leveraging strengths in design, innovation and operational excellence, the company takes a people-centered, customer-focused, and growth-minded approach to meet diverse market needs. It creates differentiated customer experiences through its expansive portfolio of brands: Anderson Tuftex, COREtec, Shaw Floors, Patcraft, Philadelphia Commercial, Shaw Contract, Shaw Sports Turf, Shawgrass, Southwest Greens, Watershed Geo and more. Headquartered in Dalton, Georgia, Shaw is a wholly owned subsidiary of Berkshire Hathaway, Inc. with more than $6 billion in annual sales and 18,000 associates worldwide. 
+
+Position Overview
+Our mission is to design, engineer, and continuously evolve enterprise-grade system solutions that enable Shaw to remain a market leader. As a Senior Systems Engineer, you will play a critical role in architecting and delivering scalable, secure, and high-performing solutions on the Salesforce platform (SFDC), the world’s leading Customer Relationship Management system.
+
+This role goes beyond development to include solution architecture, technical leadership, and strategic alignment with business objectives. You will partner closely with Commercial Sales, Product Owners, Enterprise Architecture, and cross-functional technology teams to design future-state capabilities across Desktop and Mobile platforms.
+
+This position offers a dynamic opportunity to lead complex initiatives, influence platform strategy, and mentor engineering talent while driving innovation within a cloud-first ecosystem.
+
+Responsibilities
+Solution Architecture & Design
+•	Support the end-to-end design and architecture of Salesforce-based solutions aligned to enterprise standards and long-term platform strategy.
+•	Translate business requirements into scalable, secure, and high-performing technical solutions, ensuring alignment with enterprise architecture and integration frameworks.
+•	Define and enforce design patterns, coding standards, and development best practices across the Salesforce ecosystem.
+
+Technical Leadership
+•	Serve as a technical expert and subject matter expert for Salesforce (Apex, Lightning, integrations, and platform capabilities).
+•	Mentor and coach junior and mid-level engineers, fostering engineering excellence and continuous learning.
+•	Provide oversight and governance for development activities, including code reviews, CI/CD practices, and release management.
+
+Enterprise Integration & Data Strategy
+•	Design and implement complex integrations between Salesforce and enterprise systems (e.g., middleware, MDM, data platforms).
+•	Ensure robust data architecture, including data quality, governance, and performance optimization.
+•	Collaborate with integration teams to define API strategies and event-driven architecture.
+
+Delivery & Execution
+•	Lead the development and implementation of complex features, enhancements, and large-scale initiatives.
+•	Allocate time across design, development, troubleshooting, and production support, with a strong emphasis on high-impact engineering work.
+•	Drive automation, DevOps, and continuous delivery improvements within the Salesforce ecosystem.
+
+Stakeholder Engagement
+•	Partner with business leaders and product stakeholders to shape roadmaps and prioritize initiatives.
+•	Communicate technical solutions and trade-offs effectively to both technical and non-technical audiences.
+•	Act as a trusted advisor to Sales and Business teams on technology capabilities and innovation opportunities.
+
+Quality, Security & Compliance
+•	Ensure solutions adhere to security, compliance, and governance standards, including MFA, data protection, and regulatory requirements.
+•	Establish and maintain testing strategies, quality assurance practices, and performance benchmarks.
+•	Conduct solution reviews to ensure scalability, resiliency, and operational readiness.
+
+Required Qualifications
+•	Bachelor’s degree in Information Technology, Computer Science, Engineering, or related field (or equivalent experience).
+•	3 - 5 + years of experience in enterprise application development, with deep expertise in Salesforce platform engineering preferred.
+•	Proven experience in solution architecture, technical leadership, and large-scale system implementations.
+•	Strong experience in Salesforce technologies: Apex, Lightning Web Components (LWC), Visualforce, APIs, and platform configuration.
+•	Experience with enterprise integrations (e.g., REST/SOAP APIs, middleware platforms such as Informatica, MuleSoft, TIBCO).
+•	Strong understanding of data modeling, system integration patterns, and cloud architecture principles.
+•	Familiarity with DevOps practices, including version control, CI/CD pipelines, and automated testing.
+
+Preferred Qualifications
+•	Experience working with content management systems (e.g., Kentico or similar platforms)
+•	Exposure to cloud platforms such as Microsoft Azure or AWS
+•	Experience with monitoring, logging, or observability tools
+•	Familiarity with DevOps practices, CI/CD pipelines, and deployment processes
+•	Experience supporting high-traffic or customer-facing websites
+
+How We Work
+Our team operates in a highly collaborative, remote-first environment. We leverage Microsoft Teams for communication and use Agile/Scrum methodologies to plan and deliver work. Our technology stack includes ASP.NET, Web APIs, and SQL Server, supporting applications hosted primarily in cloud environments.
+

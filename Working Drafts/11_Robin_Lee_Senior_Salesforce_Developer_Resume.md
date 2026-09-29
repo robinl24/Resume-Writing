@@ -7,7 +7,8 @@ Salesforce developer and architect who translates Crediting, Renewals, RevOps, a
 
 ## Skills
 
-Salesforce CPQ (SteelBrick), Quote Calculator Plugin (QCP), Cancel & Replace Managed Package, Apex, JavaScript, Lightning Web Components (LWC), Flow, SOQL, Salesforce CLI, Git
+**Salesforce:** Salesforce CPQ (SteelBrick), Quote-to-Cash, QCP JavaScript, Apex, LWC, Flow, SOQL, Cancel & Replace<br>
+**Delivery & enterprise systems:** Salesforce CLI, Git, Jenkins, Claude Code, Agile/Scrum, Workato, NetSuite, Zuora, Clari
 
 ## Experience
 
@@ -21,14 +22,14 @@ Salesforce org of about 5,000–6,000 users (CPQ, Service Cloud, Experience Clou
 
 - Maintained custom quote-calculation logic on the legacy CPQ platform, then took technical ownership of QCP after consultants rolled off the 2023 Salesforce CPQ implementation before it was finished. The legacy stack was not standardized; ACV and quota-relief rules were hard to maintain, and quoting problems often broke the link to historical deals. Became the primary debugger for an amendment-heavy architecture, tracing incorrect ACV/QR reporting to upstream pricing, subscription, and validation changes.
 - Designed a calculate-time QCP sync after diagnosing that out-of-the-box twinning did not update product data on amendments or renewals; avoided a historical-data rewrite that would have required disabling org-wide CPQ and Apex triggers. Moved product-data changes off the engineering critical path so policy and incentive updates could take effect the same day on active deals.
-- Pushed testing to cover New Business, Amendment, and Renewal for price rules and custom automations, not New Business only. Moved calculated-field updates from Apex async jobs into QCP JavaScript so values refresh on save.
-- After the March 2024 L4 promotion, owned Revenue, ACV, quota-relief, and forecasting accuracy for Crediting and Renewals at the deal level and for RevOps and FP&A at the company and quarterly reporting level. Gave Crediting and Renewals last-line approval to correct calculation data so fixed values carried to the next amendment or renewal; mined those overrides and shipped lasting fixes by volume.
+- Established New Business, Amendment, and Renewal test coverage for price rules and custom automation; moved calculated-field updates from asynchronous Apex into calculate-time QCP JavaScript for immediate, consistent results.
+- After the March 2024 L4 promotion, owned Revenue, ACV, quota-relief, and forecasting accuracy for Crediting and Renewals at the deal level and for RevOps and FP&A at the company and quarterly reporting level. Implemented a controlled last-line correction workflow for Crediting and Renewals so approved values carried into subsequent amendments and renewals; analyzed override patterns and prioritized permanent fixes by volume.
 - Lead developer on a 2025 usage-to-subscription pricing overhaul with variable proration. Drove stakeholder discussions, reviewed a large sample of Crediting adjustments into bug tickets, and reconciled ACV/QR for dynamic product pricing until reviewed larger-dollar deals reached agreed cutoffs so Crediting capacity could move to other work (Q3 2025: ACV 2.8% vs 3% cutoff; QR 5.3% vs 5% cutoff).
 - Cut ACV gross-absolute Crediting corrections 82% ($485.5M in Q4 2024 to $87.2M in Q3 2025) and brought QR manual-intervention rates on reviewed deals from 11.8% to 5.3%.
 
 *Quote-to-Cash overhaul* · 2025 – Present
 
-- Role shifted from IC developer to technical designer and code reviewer as a primary role: 2 Qualtrics developers, 5 contractors covering Qualtrics capacity, and 10+ contractors on the project itself.
+- Led technical design and code review across 2 internal developers, 5 capacity contractors, and 10+ project contractors, translating ambiguous stakeholder requests and recurring point fixes into scalable, testable designs through iterative Agile delivery; established backward-compatibility and testing expectations.
 - Designed contract-based ACV and quota-relief calculations for a $10M+ Deloitte-led Quote-to-Cash program so amendments no longer rewrote contract term length (a change in the middle of year two on a 3-year contract had been calculating as a 2-year deal). Built one engine that ran on legacy and new data, avoiding a historical rewrite and dual methodologies.
 - Delivered ACV/QR ready for a delayed May 2026 go-live. Remaining ACV/QR work was deal-processing improvements; other areas that launched without backward compatibility required repeated hotfixes.
 
@@ -52,7 +53,7 @@ Client-facing support on the Qualtrics XM / 360 platform.
 **B.S. Materials Science and Engineering**, Georgia Institute of Technology  
 Minor in Physics · Highest Honors · May 2019
 
-Undergraduate research, Computational NanoBio Tech Lab: four papers, one first author; presented micelle reactant transport at AIChE.
+Undergraduate research, Computational NanoBio Tech Lab: four papers (one first author); AIChE presenter.
 
 ---
 

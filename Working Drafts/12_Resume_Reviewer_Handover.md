@@ -28,7 +28,6 @@ This file is for an external reviewer. Prefer it over the internal session hando
 - Header: **Open to remote | Relocating**
 - Lives in Utah. Do **not** list a Utah city if that invites local Utah jobs. Robin wants to **avoid Utah-based roles**
 - Search is remote and other cities (Seattle is fine as an example). Do **not** list a Seattle address
-- Do **not** list U.S. citizenship
 
 ## Titles and tenure
 
@@ -77,8 +76,8 @@ Keep the substance of these even if you shorten the wording.
 - Role shifted from IC developer to technical design and code review: 2 Qualtrics developers, 5 contractors covering Qualtrics capacity, 10+ contractors on the project. Do **not** write this as managing a team of 17
 - Contract-based ACV so amendments no longer rewrote term length (mid-year-two change on a 3-year contract had been calculating as a 2-year deal)
 - One engine on legacy and new data; avoided a historical rewrite and dual methodologies
-- $10M+ Deloitte-led / contractor-led program is allowed. Do **not** say “no refund”
-- Delayed May 2026 go-live. ACV/QR was ready; remaining ACV/QR asks were deal processing. Other areas without backward compatibility needed repeated hotfixes. Do **not** write that Q2C “failed spectacularly” or that Robin’s ACV/QR work failed
+- $10M+ Deloitte-led / contractor-led program is allowed. 
+- Delayed May 2026 go-live. ACV/QR was ready; remaining ACV/QR asks were deal processing. Other areas without backward compatibility needed repeated hotfixes. 
 
 **Software Test Engineer**
 
@@ -93,14 +92,13 @@ Keep the substance of these even if you shorten the wording.
 
 - Client-facing; 4.8/5 reviews vs 4.5 average
 - Bot-detection alternative without a code change (treated as the same 2021 IP-restricted survey-protection story unless Robin says otherwise)
-- Do **not** put mentoring, internal workflow automations, or “lower productivity” on the resume
 
 **Education**
 
 - B.S. Materials Science and Engineering, Georgia Tech, May 2019; minor in Physics; Highest Honors
 - Four papers, one first author (Computational NanoBio Tech Lab)
 
-## Approved numbers
+## Some numbers
 
 | Claim | Meaning | Notes |
 |---|---|---|
@@ -115,31 +113,15 @@ Keep the substance of these even if you shorten the wording.
 
 ## Do not use
 
-- 16% → 8% of deals (retired memory; not in the tracker)
-- Older eval 75% reduction, or mixing ~3.5% / 3% eval lines with the tracker
-- “Prevented a 6–9 month delay” as fact
 - Completed Salesforce certifications, or unfinished / delayed cert study
-- Copado, Jenkins, Gearset, or a CI/CD stack Robin did not name
+- Copado, Gearset, or a CI/CD stack Robin did not name
 - Salesforce CLI written as SFDX
-- Ownership of the Cancel & Replace package (it may appear in skills; Robin did not say they owned it)
-- “Homebrew,” blaming consultants or the business, accusing reps of gaming pay, “on a whim,” “no training”
-- Pricing “changed with no regard” for existing data
-- Uncontrolled finance overrides
+- Ownership of the Cancel & Replace package
 - Utah as a job-search location; Seattle as current residence; U.S. citizenship
-- VERIFY leftovers from evals unless Robin confirms: ~$250M Q3 wording, ~800 contracts remediation
 
 ## Skills Robin named
 
-Salesforce CPQ (SteelBrick), Cancel & Replace (package name only), QCP JavaScript, Apex, LWC, Flow, SOQL, Salesforce CLI, Git.
-
-Do not add Service Cloud or Experience Cloud as personal skills. Those are org products, already in the company-context line.
-
-## Still loose (ask Robin, do not guess)
-
-- Whether bot-detection is the same as the 2021 IP-restricted survey-protection story
-- Whether a Q2C “5% of closed deals” memory uses the same reviewed-deal denominator as the tracker
-- Exact month the Salesforce CPQ implementation should start (March 2022 vs 2023); current draft uses March 2022 because custom CPQ is folded into that chapter
-- Paper titles if you want research more specific than “four papers, one first author”
+Salesforce CPQ (SteelBrick), Cancel & Replace (package name only), QCP JavaScript, Apex, LWC, Flow, SOQL, Salesforce CLI, Git, Jenkins, Claude Code, Clari, NetSuite, Workato, Zuora
 
 ## Review posture
 
