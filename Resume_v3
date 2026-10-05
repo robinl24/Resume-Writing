@@ -1,0 +1,60 @@
+Robin Lee
+Vineyard, UT |  770-668-0544 | SeungMin.Lee@Live.com
+
+SUMMARY	
+
+
+Salesforce Developer with 4+ years of development and 5+ years across Salesforce engineering and testing in global enterprise org. Specializes in Salesforce CPQ, and Quote-to-Cash, using QCP JavaScript, Apex, LWC, and Flow with partnerships with Finance and RevOps. Led finance-critical development during two major transformations: the move from custom quoting to Salesforce CPQ and a backward-compatible calculation redesign for a $10M+ Quote-to-Cash transformation.
+
+SKILLS	
+
+
+Technical Skills: Salesforce CPQ (SteelBrick), QCP JavaScript, Apex, SFDX,  LWC, Flow, Cancel & Replace Package, Python, Claude Code
+Systems: Salesforce CI, Git, Jenkins, Workato, NetSuite, Zuora, Clari
+
+WORK EXPERIENCE	
+
+
+Qualtrics LLC.	Provo, UT
+Enterprise Salesforce org supporting 5,000–6,000 users, global currencies, and approximately 80,000 closed deals annually
+
+Salesforce Developer - Quote-to-Cash Transformation	Feb 2025 – Present
+Led technical design and code reviews across 2 internal developers, 5 capacity contractors, and 10+ project contractors, translating ambiguous stakeholder requests and recurring point fixes into scalable, testable designs through iterative Agile delivery.
+Designed contract-based ACV and quota-relief calculations for a $10M+ Deloitte-led Quote-to-Cash program so amendments no longer rewrote contract term length; built one backward-compatible engine for legacy and new data, avoiding a historical rewrite and dual calculation methodologies.
+Delivered the ACV and quota-relief engine for the May 2026 go-live; remaining requests focused on deal-processing improvements rather than calculation defects.
+
+Salesforce Developer - Salesforce CPQ Implementation	Mar 2022 – Oct 2025
+Took ownership of QCP JavaScript after consultants rolled off an unfinished Salesforce CPQ implementation; became the primary debugger for an amendment-heavy architecture, tracing ACV and quota-relief discrepancies to upstream pricing, subscription, and validation changes.
+Designed a calculate-time QCP sync after identifying that out-of-the-box twinning did not refresh product data on amendments or renewals, avoiding a historical-data rewrite that would have required disabling org-wide CPQ and Apex triggers and enabling approved product and policy changes to reach active deals the same day.
+Established New Business, Amendment, and Renewal test coverage for price rules and custom automation; moved calculated-field updates from asynchronous Apex to calculate-time QCP JavaScript for immediate, consistent results.
+Owned Revenue, ACV, quota-relief, and forecasting accuracy for Crediting and Renewals at the deal level and for RevOps and FP&A reporting; created a controlled correction workflow whose approved values carried into later amendments and renewals, then analyzed overrides to prioritize permanent fixes.
+Served as lead developer for a usage-to-subscription pricing overhaul with variable proration, converting recurring Crediting adjustments into bug fixes that cut gross-absolute ACV corrections 82% and reduced manual quota-relief intervention on reviewed deals from 11.8% to 5.3%.
+
+Software Test Engineer	Mar 2021 – Mar 2022
+Tested Salesforce changes against stakeholders’ stated needs and the platform implications they would encounter, improving acceptance by identifying requirement gaps before release.
+Managed stakeholder clarification and feedback loops so other testers could stay focused on test execution while building end-to-end knowledge of Salesforce and the org’s automations.
+Documented test steps for new and existing development, creating the foundation for automated testing where little test documentation had existed.
+Built end-to-end knowledge of the Salesforce organization by testing new platform changes and tracing how automation affected business users before moving into development.
+Tested both stated requirements and platform behavior stakeholders might not know to request, helping identify gaps before changes reached production.
+Took ownership of stakeholder clarification during testing so requirement gaps could be resolved without slowing the development team
+Documented repeatable test steps for existing and new Salesforce development, creating the base for later test automation.
+Worked on support cases from the business, dealing with issues from workarounds to addressing reports of issues and reporting them for developers to fix. 
+
+Product Specialist	Nov 2019 – Mar 2021
+Delivered client-facing support for the Qualtrics XM and 360 platforms, maintaining consistent 4.8/5 customer review scores versus a 4.5 average.
+Built a no-code survey-protection solution using IP-restricted responses when native bot-detection controls did not meet client needs, providing an immediate solution without a product change.
+
+EDUCATION	
+
+
+Georgia Institute of Technology	Atlanta, GA
+Bachelor of Engineering	May 2019
+B.S. in Materials Science and Engineering; Minor in Physics 
+Highest Honors
+
+ADDITIONAL	
+
+
+Technical Skills: Advanced in SQL, PHP, Javascript, HTML/CSS; Proficient in MATLAB, Python
+
+
